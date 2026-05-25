@@ -179,6 +179,9 @@ public static class LocalizationManager
         {
             fontFamily = _languageFontFamilies["default"];
         }
+
+        fontFamily = "Pretendard, Noto Sans CJK SC, Yu Gothic UI, Segoe UI Variable, Microsoft YaHei UI, MS Gothic";
+        
         SettingsManager.Current.FontFamily = fontFamily;
 
         Logger.Debug("Applied font family: " + fontFamily);

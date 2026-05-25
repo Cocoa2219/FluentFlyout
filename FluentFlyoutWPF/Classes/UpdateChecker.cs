@@ -1,4 +1,4 @@
-// Copyright © 2024-2026 The FluentFlyout Authors
+// Copyright Â© 2024-2026 The FluentFlyout Authors
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 using NLog;
